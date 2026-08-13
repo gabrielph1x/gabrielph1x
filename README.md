@@ -13,7 +13,7 @@
   <a href="mailto:gabrielcarmo.moraes@hotmail.com">
     <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
-  <a href="SEU_LINK_GITHUB_AQUI">
+  <a href="https://github.com/gabrielph1x">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -126,8 +126,8 @@ Instituto Plástica DEI (Presencial) · Jun/2024 - Dez/2024
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielph1x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielph1x&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
