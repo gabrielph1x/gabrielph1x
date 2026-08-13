@@ -106,17 +106,6 @@
 | 🇺🇸 Inglês | Avançado |
 | 🇪🇸 Espanhol | Básico |
 
----
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center"><i>Obrigado pela visita! 🚀</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,100:1E63C4&height=120&section=footer" width="100%"/>
