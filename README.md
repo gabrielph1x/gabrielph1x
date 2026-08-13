@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="SUA_URL_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/gabriel-carmo-moraes/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gabrielcarmo.moraes@hotmail.com">
