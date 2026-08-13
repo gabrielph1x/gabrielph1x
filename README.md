@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
-
-<h3 align="center">Desenvolvedor Full Stack & Analista de Conteúdo Digital e IA</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,100:1E63C4&height=220&section=header&text=Olá,%20eu%20sou%20o%20Gabriel%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%26%20Analista%20de%20Conteúdo%20Digital%20e%20IA&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Python+%7C+React+%7C+PHP+%7C+C%23;Explorando+IA+aplicada+a+conte%C3%BAdo+digital" alt="Typing SVG" />
@@ -118,3 +118,5 @@
 ---
 
 <p align="center"><i>Obrigado pela visita! 🚀</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,100:1E63C4&height=120&section=footer" width="100%"/>
