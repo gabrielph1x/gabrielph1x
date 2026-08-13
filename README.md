@@ -1,4 +1,22 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,100:1E63C4&height=220&section=header&text=Olá,%20eu%20sou%20o%20Gabriel!&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20e%20Analista%20de%20Conteudo%20Digital%20e%20IA&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Python+%7C+React+%7C+PHP+%7C+C%23;Explorando+IA+aplicada+a+conte%C3%BAdo+digital" alt="Typing SVG" /> </p> <p align="center"> <a href="SUA_URL_LINKEDIN_AQUI"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:gabrielcarmo.moraes@hotmail.com"> <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /> </a> <a href="SEU_LINK_GITHUB_AQUI"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:434343&height=220&section=header&text=Ola%20eu%20sou%20o%20Gabriel&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20e%20Analista%20de%20Conteudo%20Digital%20e%20IA&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Python+%7C+React+%7C+PHP+%7C+C%23;Explorando+IA+aplicada+a+conte%C3%BAdo+digital" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="SUA_URL_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gabrielcarmo.moraes@hotmail.com">
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="SEU_LINK_GITHUB_AQUI">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -51,15 +69,30 @@
 
 ### 💼 Experiência
 
-**Analista de Conteúdo Digital e IA** — Viral Scale (Remoto) · Nov/2025 - Mar/2026
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Analista de Conteúdo Digital e IA**
+Viral Scale (Remoto) · Nov/2025 - Mar/2026
+
 - Engenharia de prompts e desenvolvimento de roteiros estratégicos com Claude AI
 - Automações de fluxo de trabalho e geração de imagens com Whisk
 - Criação de identidades visuais e thumbnails otimizadas com IA para maximizar CTR
 
-**Analista de Suporte Júnior** — Instituto Plástica DEI (Presencial) · Jun/2024 - Dez/2024
+</td>
+<td width="50%" valign="top">
+
+**Analista de Suporte Júnior**
+Instituto Plástica DEI (Presencial) · Jun/2024 - Dez/2024
+
 - Suporte de Nível 1 e 2 no sistema SMART, garantindo estabilidade operacional
 - Gestão de infraestrutura de redes (racks, switches, patch panels, roteadores)
 - Manutenção preventiva e corretiva de hardware e software
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -88,6 +121,17 @@
 | 🇺🇸 Inglês | Avançado |
 | 🇪🇸 Espanhol | Básico |
 
+---
 
+### 📊 Estatísticas do GitHub
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,100:1E63C4&height=120&section=footer" width="100%"/>
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>Obrigado pela visita! 🚀</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:434343&height=120&section=footer" width="100%"/>
