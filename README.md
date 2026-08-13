@@ -1,22 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,100:1E63C4&height=220&section=header&text=Ol%C3%A1%2C%20eu%20sou%20o%20Gabriel%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%26%20Analista%20de%20Conte%C3%BAdo%20Digital%20e%20IA&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Python+%7C+React+%7C+PHP+%7C+C%23;Explorando+IA+aplicada+a+conte%C3%BAdo+digital" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="SUA_URL_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gabrielcarmo.moraes@hotmail.com">
-    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-  <a href="SEU_LINK_GITHUB_AQUI">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,100:1E63C4&height=220&section=header&text=Ola%20eu%20sou%20o%20Gabriel&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20e%20Analista%20de%20Conteudo%20Digital%20e%20IA&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Python+%7C+React+%7C+PHP+%7C+C%23;Explorando+IA+aplicada+a+conte%C3%BAdo+digital" alt="Typing SVG" /> </p> <p align="center"> <a href="SUA_URL_LINKEDIN_AQUI"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:gabrielcarmo.moraes@hotmail.com"> <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /> </a> <a href="SEU_LINK_GITHUB_AQUI"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
 ---
 
