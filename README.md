@@ -99,7 +99,7 @@ Instituto Plástica DEI (Presencial) · Jun/2024 - Dez/2024
 ### 🚀 Projetos
 
 **MétodoFull**
-> Landing page responsiva para venda de infoproduto, com integração de checkout via Kiwify.
+> LandingPage responsiva para venda de infoproduto, com integração de checkout via Kiwify.
 
 **Projeto de Inovação Tecnológica (PIT)**
 > Desenvolvimento full stack: estruturação no Figma, codificação da interface e integração com banco de dados via phpMyAdmin, com suporte ao back-end em PHP.
@@ -123,15 +123,6 @@ Instituto Plástica DEI (Presencial) · Jun/2024 - Dez/2024
 
 ---
 
-### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielph1x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielph1x&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center"><i>Obrigado pela visita! 🚀</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:434343&height=120&section=footer" width="100%"/>
